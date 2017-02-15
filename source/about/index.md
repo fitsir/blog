@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于
 date: 2016-09-26 22:05:42
-layout: page
+type: page
 ---
