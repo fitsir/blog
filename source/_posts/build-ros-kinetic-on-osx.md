@@ -9,6 +9,9 @@ categories:
 	- ROS
 toc: true
 ---
+  
+![“MacOS下通过Matlab控制ROS的Turtlesim”](/images/macos_ros.png)
+
 [ROS][]最初是作为科研辅助工具由斯坦福大学开发的，由于ROS极大的开放性和包容性，它能够兼容其他机器人开发工具、仿真工具和操作系统、使之融为一体。这使得ROS不断发展壮大，并成为应用和影响力最广泛的机器人软件平台。
 
 对于Ubuntu系统，安装ROS只需要按照官网提供的教程[Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)安装即可。
