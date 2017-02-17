@@ -71,6 +71,7 @@ deploy:
   type: git
   repository:
     github: git@github.com:fitsir/fitsir.github.io.git
+    coding: git@git.coding.net:fitsir/fitsir.git
   branch: master
 
 sitemap:
